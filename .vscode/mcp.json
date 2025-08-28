@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "mcp-mssql": {
+      "type": "stdio",
+      "command": ".venv/bin/python",
+      "args": ["mcp_mssql_server.py"]
+    }
+  }
+}

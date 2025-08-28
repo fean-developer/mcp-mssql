@@ -1,0 +1,12 @@
+{
+    "chat.mcp.serverSampling": {
+        "mcp-mssql/.vscode/mcp.json: mcp-mssql": {
+            "allowedModels": [
+                "copilot/gpt-4.1",
+                "copilot/gemini-2.0-flash-001",
+                "copilot/gemini-2.5-pro",
+                "copilot/gpt-5"
+            ]
+        }
+    }
+}
